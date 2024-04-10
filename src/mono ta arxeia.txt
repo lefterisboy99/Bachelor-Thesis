@@ -1,0 +1,93 @@
+mona arxeia
+1mb copytolocal:1876ms hardlink:5ms
+2mb copytolocal:1932ms hardlink:5ms
+4mb copytolocal:2138ms hardlink:3ms
+8mb copytolocal:2102ms hardlink:6ms
+16mb copytolocal:2168ms hardlink:5ms
+32mb copytolocal:2071ms hardlink:5ms
+64mb copytolocal:2179ms hardlink:5ms
+128mb copytolocal:2410ms hardlink:5ms
+256mb copytolocal:2423ms hardlink:76ms
+400mb copytolocal:2638ms hardlink:190ms
+1500mb copytolocal:14384ms hardlink:3989ms
+
+
+
+polla arxeia mazi
+500000 recordcount
+128mb
+128mb
+128mb
+128mb
+70mb
+me to copytolocal xreiastikame 11772ms
+me to script xreiastikame 15ms
+
+1000000 recordcount
+eixame ta ekseis arxeia
+256mb
+400mb
+128mb
+128mb
+128mb
+128mb
+17mb
+me to copytolocal xreiastikame 17991ms
+me to script xreiastikame 329ms
+
+2000000 recordcount
+67mb
+256mb
+67mb
+67mb
+67mb
+400mb
+67mb
+67mb
+67mb
+67mb
+67mb
+400mb
+40mb
+128mb
+128mb
+128mb
+128mb
+128mb
+256mb
+me to copytolocal xreiastikame 72408ms
+me to script xreiastikame 583ms
+
+4000000 recordcount
+67mb
+67mb
+67mb
+67mb
+67mb
+67mb
+67mb
+67mb
+67mb
+67mb
+67mb
+67mb
+1400mb
+400mb
+67mb
+67mb
+400mb
+6mb
+67mb
+67mb
+67mb
+400b
+67mb
+67mb
+400mb
+128mb
+128mb
+128mb
+70mb
+me to copytolocal xreiastikame 140295ms
+me to script xreiastikame 42241ms
+

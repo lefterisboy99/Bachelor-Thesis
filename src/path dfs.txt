@@ -1,0 +1,1 @@
+/tmp/hadoop-lefteris/dfs/data/current/BP-1645351397-127.0.1.1-1653584823993/current/finalized/subdir0/subdir0
